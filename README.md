@@ -3,6 +3,7 @@ Logs the position of the car to a SD card.
 There are two versions, Appending and NewFile:  
 Appending creates one GPS file and appends every trip to this file.  
 NewFile creates a new file for each trip.  
+Either versions create a Position files (or more) in the gps-log directory on the SD card.
 
 
 # Usage  

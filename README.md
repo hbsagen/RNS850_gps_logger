@@ -13,4 +13,4 @@ This must be done after every restart of the RNS850. I am working on a solution 
 
 # Converting the Positions file to a .gpx file
 Drag the Positions file from the gps-log directory on the SD card to the "drop_Positions_here.bat" file. Make sure the "Positions_to_gpx.py" is in the same folder as hte .bat file.  
-The .pgs file can the be imported to a maaping tool, as ArcGIs Pro or other software.
+The .gpx file can the be imported to a maaping tool, as ArcGIs Pro or other software.

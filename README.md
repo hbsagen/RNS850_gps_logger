@@ -12,5 +12,5 @@ Wait 3 - 4 minutes after boot of RNS850 before inserting SD card. A VW logo will
 This must be done after every restart of the RNS850. I am working on a solution for permanent logging.
 
 # Converting the Positions file to a .gpx file
-Drag the Positions file from the gps-log directory on the SD card to the "drop_Positions_here.bat" file. Make sure the "Positions_to_gpx.py" is in the same folder as hte .bat file.  
-The .gpx file can the be imported to a maaping tool, as ArcGIs Pro or other software.
+Drag the Positions file from the gps-log directory on the SD card to the "drop_Positions_here.bat" file (on your computer). Make sure the "Positions_to_gpx.py" is in the same folder as hte .bat file.  
+The .gpx file can the be imported to a maaping tool, as ArcGis Pro or other software.

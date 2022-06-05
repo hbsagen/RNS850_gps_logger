@@ -9,3 +9,6 @@ NewFile creates a new file for each trip.
 Copy either the content of NewFile or Appending to the root of a FAT32 SD card.  
 Wait 3 - 4 minutes after boot of RNS850 before inserting SD card. A VW logo will appear after a few seconds. Press a button or twist a knob on the RNS850 to remove the VW logo and start the script.  
 This must be done after every restart of the RNS850. I am working on a solution for permanent logging.
+
+# Converting the Positions file to a .gpx file
+Drag the Positions file from the gps-log directory on the SD card to the "drop_Positions_here.bat" file. Make sure the "Positions_to_gpx.py" is in the same folder as hte .bat file.

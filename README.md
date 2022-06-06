@@ -1,4 +1,6 @@
 # RNS850 GPS Logger
+Based on the work of [Mafketel](https://github.com/Mafketel/audi-mmi-3g-gps-logging)  
+
 Logs the position of the car to a SD card.  
 There are two versions, Appending and NewFile:  
 Appending creates one GPS file and appends every trip to this file.  

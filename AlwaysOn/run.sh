@@ -11,7 +11,7 @@ $SDPath/_utils/showScreen $SDPath/_screens/scriptStart.png
 mount -uw /mnt/efs-system
 mount -uw /mnt/nav
 
-cp -V -r /mnt/nav/gemmi/run_gemmi.sh $SDPath/
+cp -V -r /mnt/nav/gemmi/run_gemmi.sh $SDPath/backup/
 
 df / >> "$SDPath/paths"
 

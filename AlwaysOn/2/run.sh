@@ -11,9 +11,7 @@ $SDPath/_utils/showScreen $SDPath/_screens/scriptStart.png
 mount -uw /mnt/efs-system
 mount -uw /mnt/nav
 
-cp -V -r -f $SDPath/nav/run_gemmi.sh /mnt/nav/gemmi/ >> "$SDPath/injection"
-
-df / >> "$SDPath/paths"
+cp -V -r -f $SDPath/nav/run_gemmi.sh /mnt/nav/gemmi/
 
 #EoS ------------------------------------------------------
 
